@@ -1,0 +1,17 @@
+{
+  "categories": [
+    { "id": "makecode-arcade-transportbaand", "name": "MakeCode Arcade · Transportbånd", "description": "Medier til lektioner om transportbånd i MakeCode Arcade.", "uploadPath": "assets/projects/makecode-arcade/transportbaand" },
+    { "id": "generelle-giffer", "name": "Generelle GIF'er", "description": "Genbrugelige animationer, der ikke hører til et bestemt projekt.", "uploadPath": "assets/gifs" },
+    { "id": "generelle-billeder", "name": "Generelle billeder", "description": "Genbrugelige PNG-, JPG-, SVG- og WebP-filer.", "uploadPath": "assets/images" }
+  ],
+  "items": [
+    {
+      "id": "makecode-arcade-transportbaand-lokal-sprite-reference",
+      "category": "makecode-arcade-transportbaand",
+      "path": "assets/projects/makecode-arcade/transportbaand/lokal-sprite-reference-i-kollisionstjek.gif",
+      "title": "Lokal Sprite-reference i kollisionstjek",
+      "description": "Sådan sættes den lokale blokvariabel Sprite som reference i kollisionstjek-blokken.",
+      "alt": "MakeCode Arcade-blokke med lokal Sprite-reference i et kollisionstjek"
+    }
+  ]
+}
